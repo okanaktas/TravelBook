@@ -1,6 +1,6 @@
 We can find the user's last location on the map and register new locations to the database using RxJava and Room by long clicking.
 
-![1](https://github.com/okanaktas/TravelBook/assets/28652652/e737e25b-a47a-4013-bfcc-dcea1209b19d)
+![11](https://github.com/okanaktas/TravelBook/assets/28652652/e737e25b-a47a-4013-bfcc-dcea1209b19d)
 
 ![5](https://github.com/okanaktas/TravelBook/assets/28652652/8b68ef9f-6a36-4396-b628-1002acefd165)
 
